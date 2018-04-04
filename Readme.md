@@ -1,9 +1,9 @@
 Filetype
 =========
 
-###Filetype ist einfach zu benutzen.
+### Filetype ist einfach zu benutzen.
 
-##BEISPIEL
+## BEISPIEL
 ```php
 include "./src/type.php";
 $pfad = "../../datei.docx";
@@ -11,23 +11,23 @@ $type = dateityp($pfad);
 print_r($type);
 ```
 
-Dieses Beispiel gibt zurück:
+Dieses Beispiel gibt zurÃ¼ck:
 
 ```php
 Array ( [end] => docx [typ] => word [icon] => fa-file-word-o )
 ```
 
-##INSTALLATION
+## INSTALLATION
 Kopiere die Datei __type.php__ in einen beliebigen Ordner.
 
 Fertig.
 
-###Finde mich auf:
+### Finde mich auf:
 - meiner [Homepage].
 - [Twitter].
 - [Github].
 
 
 [Homepage]:http://matthiasschaffer.com
-[Twitter]:http://matthiasschaffer.com
-[Github]:http://matthiasschaffer.com
+[Twitter]:http://twitter.com/fellwell5
+[Github]:http://github.com/fellwell5
